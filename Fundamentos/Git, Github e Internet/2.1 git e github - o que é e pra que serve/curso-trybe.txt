@@ -2,6 +2,8 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
-- GitHTML
+- Git
+- Python
+- HTML
+- CSS
 
-CSS[A
